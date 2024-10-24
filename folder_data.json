@@ -1,0 +1,1615 @@
+{
+    "message": "Data fetched successfully",
+    "status": "200 OK",
+    "statusCode": 200,
+    "success": true,
+    "data": [
+        {
+            "link": "https://in.pinterest.com/pin/870250327982012958/",
+            "count": null,
+            "articleId": "870250327982012958",
+            "articleSource": "pinterest",
+            "articleNewsSource": "Pinterest",
+            "articleTitle": "Pic Talk Of The Day : PMML, Led By 26/11 Mastermind Hafiz Saeed, To Contest All Seats In Pakistan... New Delhi: The Pakistan Markazi Muslim League (PMML), a political entity of the 26/11 terror attacks mastermind and founder of Lashkar-e-Taiba, Hafiz Mohammad Saeed, has announced that it will contest all the national and provincial assembly seats in the upcoming general elections slated for February 8, 2024. The PMML, which emerged after the Milli League... The post Pic Talk Of The Day : PMML, Led By 26/11 Mastermind Hafiz Saeed, To Contest All Seats In Pakistan Election | World News appeare...",
+            "articleSubTitle": "",
+            "articleBigContent": "",
+            "articleLinkUrl": "https://in.pinterest.com/pin/870250327982012958/",
+            "articleAuthor": "",
+            "articleAuthorImage": "",
+            "articleAuthorImageUrlLocal": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.jpg",
+            "creationDate": "04-07-2024, 15:26:59 pm",
+            "articlePublishDate": "18-05-2024, 22:24:13 pm",
+            "articleTitleTranslated": null,
+            "articleSubTitleTranslated": null,
+            "articleBigContentTranslated": null,
+            "articleClassification": [
+                "Politics",
+                "Terrorism",
+                "Military"
+            ],
+            "articleSentiment": 0,
+            "articleInsertedDate": 1716428574270,
+            "articleMedia": [
+                {
+                    "mediaType": "image",
+                    "mediaThumbnail": "https://i.pinimg.com/236x/2e/2d/21/2e2d218d0bebc37e62e2dd24d40451bf.jpg",
+                    "mediaUrl": "https://i.pinimg.com/236x/2e/2d/21/2e2d218d0bebc37e62e2dd24d40451bf.jpg",
+                    "mediaContent": null,
+                    "mediaUrlLocal": "3d8eceb693bc55274af2b53fe0552b8d378424a00fb968e3116cf4e7c5f620e3.jpg",
+                    "mediaClassification": null,
+                    "mediaClassificationScore": "0",
+                    "mediaThumbnailLocal": "3d8eceb693bc55274af2b53fe0552b8d378424a00fb968e3116cf4e7c5f620e3.jpg",
+                    "imageObjects": null
+                }
+            ],
+            "tweet": null,
+            "youtube": null,
+            "dailymotion": null,
+            "instagram": null,
+            "facebook": null,
+            "unique_ner": {
+                "ALL": []
+            },
+            "tag": "muslim league",
+            "theme": "Extremism in J&K",
+            "subTheme": null,
+            "articleLanguage": "English",
+            "snippet": null,
+            "analyticsData": {
+                "summary": null,
+                "relationExtraction": [
+                    {
+                        "name": "Hafiz Saeed",
+                        "relations": [
+                            {
+                                "relation": "alma_mater",
+                                "entities": [
+                                    "King Saud University",
+                                    "University of Sargodha"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "born_in",
+                                "entities": [
+                                    "Sargodha"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "has_father",
+                                "entities": [
+                                    "Kamal-ud-Din Gujjar"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "has_siblings",
+                                "entities": [
+                                    "Hafiz Hannan",
+                                    "Hafiz Mastodon",
+                                    "Hafiz Hamid"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "has_son",
+                                "entities": [
+                                    "Hafiz Talha Saeed"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "has_wife",
+                                "entities": [
+                                    "Maimoona Saeed"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "is_chief_of",
+                                "entities": [
+                                    "Jamaat-ud-Dawah"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "is_founder_of",
+                                "entities": [
+                                    "Lashkar-e-Taiba"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "responsible_for",
+                                "entities": [
+                                    "2008 Mumbai Attack",
+                                    "2001 Indian Parliament attack"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "reward_by",
+                                "entities": [
+                                    "United States"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "alias",
+                                "entities": [
+                                    "Mohammad Sayed",
+                                    "Hafiz Sahib",
+                                    "Hafiz Mohammad Sayid",
+                                    "Hafiz Muhammad",
+                                    "Hafiz Mohammad Saeed",
+                                    "Hafez Mohammad Saeed",
+                                    "Tata Ji",
+                                    "Hafiz Mohammad Sahib",
+                                    "Muhammad Saeed",
+                                    "Hafiz Mohammad Sayeed",
+                                    "Hafiz Mohammad Sayed"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "colour_of_eyes",
+                                "entities": [
+                                    "Black"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "colour_of_hair",
+                                "entities": [
+                                    "Black"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "criminal_charges",
+                                "entities": [
+                                    "Terror Funding"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "date_of_arrest",
+                                "entities": [
+                                    "July 2019"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "date_of_birth",
+                                "entities": [
+                                    "1950-06-05T00:00:00"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "known_languages",
+                                "entities": [
+                                    "Punjabi",
+                                    "Urdu",
+                                    "Arabic"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "nationality",
+                                "entities": [
+                                    "Pakistani"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "is_employee_of",
+                                "entities": [
+                                    "PMML, Pakistan Markazi Muslim League, Lashkar-e-Taiba",
+                                    "PMML"
+                                ],
+                                "status": "Black"
+                            },
+                            {
+                                "relation": "countries_of_residence",
+                                "entities": [
+                                    "Pakistan"
+                                ],
+                                "status": "Black"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Hafiz Mohammad Saeed",
+                        "relations": [
+                            {
+                                "relation": "is_employee_of",
+                                "entities": [
+                                    "Lashkar-e-Taiba",
+                                    "PMML, Pakistan Markazi Muslim League, Lashkar-e-Taiba"
+                                ],
+                                "status": "Black"
+                            },
+                            {
+                                "relation": "alias",
+                                "entities": [
+                                    "Hafiz Saeed"
+                                ],
+                                "status": "Black"
+                            },
+                            {
+                                "relation": "countries_of_residence",
+                                "entities": [
+                                    "Pakistan"
+                                ],
+                                "status": "Black"
+                            }
+                        ]
+                    }
+                ],
+                "coref": "Pic Talk Of The Day : PMML, Led By 26/11 Mastermind Hafiz Saeed, To Contest All Seats In Pakistan... New Delhi: The Pakistan Markazi Muslim League (PMML), a political entity of the 26/11 terror attacks mastermind and founder of Lashkar-e-Taiba, Hafiz Mohammad Saeed, has announced that it will contest all the national and provincial assembly seats in the upcoming general elections slated for February 8, 2024. The Pakistan Markazi Muslim League (PMML), a political entity of the 26/11 terror attacks mastermind and founder of Lashkar-e-Taiba, Hafiz Mohammad Saeed, which emerged after the Milli League... The post Pic Talk Of The Day : PMML, Led By 26/11 Mastermind Hafiz Saeed, To Contest All Seats In Pakistan Election | World News appeare..."
+            }
+        },
+        {
+            "link": "https://economictimes.indiatimes.com/news/sports/indian-counter-terror-team-to-help-france-with-paris-olympics/articleshow/110311848.cms",
+            "count": null,
+            "articleId": "09cdb821c3ff5c7d44a0a5f90a5b1c4d",
+            "articleSource": "article",
+            "articleNewsSource": "Economic Times",
+            "articleTitle": "Indian counter-terror team to help France with Paris Olympics",
+            "articleSubTitle": "\n\n\n\n(You can now subscribe to our\n\n(You can now subscribe to our Economic Times WhatsApp channel\n\nIndia is all set to provide its expertise to France in counter security measures during the upcoming Olympic and Paralympic Games to be held in Paris in July, 2024, said officials aware of the matter.Th",
+            "articleBigContent": "\n\n\n\n(You can now subscribe to our\n\n(You can now subscribe to our Economic Times WhatsApp channel\n\nIndia is all set to provide its expertise to France in counter security measures during the upcoming Olympic and Paralympic Games to be held in Paris in July, 2024, said officials aware of the matter.The Ministry of Home Affairs (MHA) along with the Ministry of External Affairs (MEA) had detailed discussions with their French counterparts with two sides mutually agreeing to send a delegation of counter terror and homeland security experts to Paris ahead of the mega event.The Indian presence will help in sharing best practices with France in handling terrorism and extremism which is on the rise in Europe and deemed crucial amid important events in Paris this year, a source said. India will be part of an international contingent of like-minded countries for the exercise.India and France have been long-standing strategic partners since the establishment of diplomatic relations between the two countries in 1947, and the upgrading of the partnership to the strategic level in 1998. The two sides completed 25 years of strategic partnership last year which includes the areas of defence and security cooperation, space cooperation and civil nuclear cooperation, according to officials.\"India has unearthed several Islamic State (IS) and Al Qaeda in Indian Subcontinent (AQIS) modules across India with their international linkages. The elite National Security Guards along with other Central Armed Police Forces (CAPFs) successfully conducted G-20 events in the national capital,\" according to North Block officials. France, on the other hand, has witnessed a string of terrorist attacks since 2020, most notably the 'Paris stabbing attack' in September and beheading of Samuel Paty in October 2020.France has consistently condemned terrorism and following the Pulwama attack of February 2019, France supported India and nationally listed the Pakistan-based 'global terrorist' Hafiz Saeed, which was followed up with the listing at the UN, official added. \"France has also supported India's requests to block attempts by Pakistan to enlist innocent Indian citizens under the UNSC 1267 sanctions committee based on fabricated charges,\" added another official.",
+            "articleLinkUrl": "https://economictimes.indiatimes.com/news/sports/indian-counter-terror-team-to-help-france-with-paris-olympics/articleshow/110311848.cms",
+            "articleAuthor": "Economic Times",
+            "articleAuthorImage": "",
+            "articleAuthorImageUrlLocal": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.jpg",
+            "creationDate": "04-07-2024, 15:26:59 pm",
+            "articlePublishDate": "21-05-2024, 23:09:36 pm",
+            "articleTitleTranslated": null,
+            "articleSubTitleTranslated": null,
+            "articleBigContentTranslated": null,
+            "articleClassification": [
+                "Terrorism",
+                "Crime"
+            ],
+            "articleSentiment": 0,
+            "articleInsertedDate": 1716325087841,
+            "articleMedia": [],
+            "tweet": null,
+            "youtube": null,
+            "dailymotion": null,
+            "instagram": null,
+            "facebook": null,
+            "unique_ner": {
+                "ALL": [
+                    {
+                        "key": "GPE",
+                        "value": "France"
+                    },
+                    {
+                        "key": "GPE",
+                        "value": "India"
+                    },
+                    {
+                        "key": "GPE",
+                        "value": "Paris"
+                    },
+                    {
+                        "key": "GPE",
+                        "value": "Pakistan-based"
+                    },
+                    {
+                        "key": "GPE",
+                        "value": "India's"
+                    },
+                    {
+                        "key": "GPE",
+                        "value": "Pakistan"
+                    },
+                    {
+                        "key": "PERSON",
+                        "value": "Hafiz Saeed"
+                    },
+                    {
+                        "key": "ORG",
+                        "value": "Islamic State"
+                    },
+                    {
+                        "key": "ORG",
+                        "value": "Al Qaeda in Indian Subcontinent"
+                    },
+                    {
+                        "key": "ORG",
+                        "value": "National Security Guards"
+                    },
+                    {
+                        "key": "ORG",
+                        "value": "Central Armed Police Forces"
+                    },
+                    {
+                        "key": "ORG",
+                        "value": "North Block"
+                    },
+                    {
+                        "key": "ORG",
+                        "value": "UN"
+                    },
+                    {
+                        "key": "EVENT",
+                        "value": "Paris Olympics"
+                    },
+                    {
+                        "key": "EVENT",
+                        "value": "Olympic and Paralympic Games"
+                    },
+                    {
+                        "key": "EVENT",
+                        "value": "G-20"
+                    },
+                    {
+                        "key": "EVENT",
+                        "value": "beheading of Samuel Paty"
+                    },
+                    {
+                        "key": "EVENT",
+                        "value": "Pulwama attack of February 2019"
+                    }
+                ],
+                "NORP": [
+                    "Indian"
+                ],
+                "GPE": [
+                    "France",
+                    "India",
+                    "Paris",
+                    "Pakistan-based",
+                    "India's",
+                    "Pakistan"
+                ],
+                "EVENT": [
+                    "Paris Olympics",
+                    "Olympic and Paralympic Games",
+                    "G-20",
+                    "beheading of Samuel Paty",
+                    "Pulwama attack of February 2019"
+                ],
+                "WORK_OF_ART": [
+                    "Economic Times"
+                ],
+                "DATE": [
+                    "July 2024",
+                    "1947",
+                    "1998",
+                    "25 years",
+                    "last year",
+                    "2020",
+                    "September",
+                    "October 2020.France"
+                ],
+                "CARDINAL": [
+                    "two"
+                ],
+                "ORG": [
+                    "Islamic State",
+                    "Al Qaeda in Indian Subcontinent",
+                    "National Security Guards",
+                    "Central Armed Police Forces",
+                    "North Block",
+                    "UN"
+                ],
+                "PERSON": [
+                    "Hafiz Saeed"
+                ],
+                "LAW": [
+                    "UNSC 1267"
+                ]
+            },
+            "tag": "National Security",
+            "theme": "Terrorism",
+            "subTheme": "Cyber Terrorism",
+            "articleLanguage": "English",
+            "snippet": null,
+            "analyticsData": {
+                "summary": {
+                    "sentences": [
+                        "(You can now subscribe to our (You can now subscribe to our Economic Times WhatsApp channel India is all set to provide its expertise to France in counter security measures during the upcoming Olympic and Paralympic Games to be held in Paris in July, 2024, said officials aware of the matter.",
+                        "The Ministry of Home Affairs (MHA) along with the Ministry of External Affairs (MEA) had detailed discussions with their French counterparts with two sides mutually agreeing to send a delegation of counter terror and homeland security experts to Paris ahead of the mega event.",
+                        "The Indian presence will help in sharing best practices with France in handling terrorism and extremism which is on the rise in Europe and deemed crucial amid important events in Paris this year, a source said.",
+                        "India will be part of an international contingent of like-minded countries for the exercise.",
+                        "India and France have been long-standing strategic partners since the establishment of diplomatic relations between the two countries in 1947, and the upgrading of the partnership to the strategic level in 1998. The two sides completed 25 years of strategic partnership last year which includes the areas of defence and security cooperation, space cooperation and civil nuclear cooperation, according to officials.",
+                        "India has unearthed several Islamic State (IS) and Al Qaeda in Indian Subcontinent (AQIS) modules across India with their international linkages.",
+                        "The elite National Security Guards along with other Central Armed Police Forces (CAPFs) successfully conducted G-20 events in the national capital, according to North Block officials.",
+                        "France, on the other hand, has witnessed a string of terrorist attacks since 2020, most notably the 'Paris stabbing attack' in September and beheading of Samuel Paty in October 2020.France has consistently condemned terrorism and following the Pulwama attack of February 2019, France supported India and nationally listed the Pakistan-based 'global terrorist' Hafiz Saeed, which was followed up with the listing at the UN, official added.",
+                        "France has also supported India's requests to block attempts by Pakistan to enlist innocent Indian citizens under the UNSC 1267 sanctions committee based on fabricated charges, added another official."
+                    ],
+                    "scores": [
+                        0.14047619047619048,
+                        0.6681104075340998,
+                        0.6016087597324735,
+                        0.650000023841858,
+                        0.32122548421223956,
+                        0.5204190140678769,
+                        0.19814740745794207,
+                        0.5740049570798874,
+                        0.28839416589055744
+                    ],
+                    "status": "success"
+                },
+                "relationExtraction": [
+                    {
+                        "name": "Hafiz Saeed",
+                        "relations": [
+                            {
+                                "relation": "alma_mater",
+                                "entities": [
+                                    "King Saud University",
+                                    "University of Sargodha"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "born_in",
+                                "entities": [
+                                    "Sargodha"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "has_father",
+                                "entities": [
+                                    "Kamal-ud-Din Gujjar"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "has_siblings",
+                                "entities": [
+                                    "Hafiz Mastodon",
+                                    "Hafiz Hamid",
+                                    "Hafiz Hannan"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "has_son",
+                                "entities": [
+                                    "Hafiz Talha Saeed"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "has_wife",
+                                "entities": [
+                                    "Maimoona Saeed"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "is_chief_of",
+                                "entities": [
+                                    "Jamaat-ud-Dawah"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "is_founder_of",
+                                "entities": [
+                                    "Lashkar-e-Taiba"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "responsible_for",
+                                "entities": [
+                                    "2008 Mumbai Attack",
+                                    "2001 Indian Parliament attack"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "reward_by",
+                                "entities": [
+                                    "United States"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "alias",
+                                "entities": [
+                                    "Hafiz Mohammad Sayed",
+                                    "Hafiz Muhammad",
+                                    "Hafiz Mohammad Sayid",
+                                    "Hafiz Mohammad Sahib",
+                                    "Hafiz Mohammad Sayeed",
+                                    "Mohammad Sayed",
+                                    "Hafiz Sahib",
+                                    "Muhammad Saeed",
+                                    "Hafez Mohammad Saeed",
+                                    "Tata Ji"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "colour_of_eyes",
+                                "entities": [
+                                    "Black"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "colour_of_hair",
+                                "entities": [
+                                    "Black"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "criminal_charges",
+                                "entities": [
+                                    "Terror Funding"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "date_of_arrest",
+                                "entities": [
+                                    "July 2019"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "date_of_birth",
+                                "entities": [
+                                    "1950-06-05T00:00:00"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "known_languages",
+                                "entities": [
+                                    "Punjabi",
+                                    "Arabic",
+                                    "Urdu"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "nationality",
+                                "entities": [
+                                    "Pakistani"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "countries_of_residence",
+                                "entities": [
+                                    "Pakistan"
+                                ],
+                                "status": "Black"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Samuel Paty",
+                        "relations": [
+                            {
+                                "relation": "date_of_death",
+                                "entities": [
+                                    "October"
+                                ],
+                                "status": "Black"
+                            }
+                        ]
+                    }
+                ],
+                "coref": "(You can now subscribe to our (You can now subscribe to our Economic Times WhatsApp channel India is all set to provide its expertise to France in counter security measures during the upcoming Olympic and Paralympic Games to be held in Paris in July, 2024, said officials aware of the matter.The Ministry of Home Affairs (MHA) along with the Ministry of External Affairs (MEA) had detailed discussions with their French counterparts with two sides mutually agreeing to send a delegation of counter terror and homeland security experts to Paris ahead of the upcoming Olympic and Paralympic Games to be held in Paris in July, 2024.The Indian presence will help in sharing best practices with France in handling terrorism and extremism which is on the rise in Europe and deemed crucial amid important events in Paris this year, a source said. India will be part of an international contingent of like-minded countries for the upcoming Olympic and Paralympic Games to be held in Paris in July, 2024.India and France have been long-standing strategic partners since the establishment of diplomatic relations between The Ministry of Home Affairs (MHA) along with the Ministry of External Affairs (MEA) in 1947, and the upgrading of the partnership to the strategic level in 1998. The Ministry of Home Affairs (MHA) along with the Ministry of External Affairs (MEA) completed 25 years of strategic partnership last year which includes the areas of defence and security cooperation, space cooperation and civil nuclear cooperation, according to officials.India has unearthed several Islamic State (IS) and Al Qaeda in Indian Subcontinent (AQIS) modules across India with their international linkages. The elite National Security Guards along with other Central Armed Police Forces (CAPFs) successfully conducted G-20 events in the national capital, according to North Block officials. France, on the other hand, has witnessed a string of terrorist attacks since 2020, most notably the 'Paris stabbing attack' in September and beheading of Samuel Paty in October France has consistently condemned terrorism and following the Pulwama attack of February 2019, France supported India and nationally listed the Pakistan 'global terrorist' Hafiz Saeed, which was followed up with the listing at the UN, official added. France has also supported India's requests to block attempts by Pakistan to enlist innocent Indian citizens under the UNSC 1267 sanctions committee based on fabricated charges, added another official."
+            }
+        },
+        {
+            "link": "https://www.thehindu.com/elections/lok-sabha/congress-wants-to-bring-sharia-law-through-the-back-door-says-amit-shah-targeting-digvijaya-singh-on-his-home-turf/article68111224.ece",
+            "count": null,
+            "articleId": "e9467414bb21d0bf31ac8757cd719742",
+            "articleSource": "article",
+            "articleNewsSource": "The Hindu",
+            "articleTitle": "Congress wants to bring Sharia law through the back door, says Amit Shah, targeting Digvijaya Singh on his home turf",
+            "articleSubTitle": "April 27, 2024 04:35 am | Updated 03:57 pm IST - BHOPAL\n\nUnion Home Minister Amit Shah alleged on Friday that the Congress wanted to “bring back Muslim personal law and triple talaq” and pledged that the Bharatiya Janata Party (BJP) would implement the Uniform Civil Code (UCC) across the entire coun",
+            "articleBigContent": "April 27, 2024 04:35 am | Updated 03:57 pm IST - BHOPAL\n\nUnion Home Minister Amit Shah alleged on Friday that the Congress wanted to “bring back Muslim personal law and triple talaq” and pledged that the Bharatiya Janata Party (BJP) would implement the Uniform Civil Code (UCC) across the entire country.\n\nAddressing poll rallies in Madhya Pradesh’s Guna and Rajgarh Lok Sabha constituencies, Mr. Shah said, “Read the Congress manifesto carefully. They have said that we will re-implement the Muslim personal law and triple talaq. You tell me, can this country be run by Sharia [law]? Rahul [Gandhi] baba, do whatever you want to do for appeasement. But as long as the BJP is there, we will not allow [Muslim] personal law to be implemented.”\n\n“This country will be run by UCC, this is the spirit of our Constitution. We have brought UCC in Uttarakhand and it is [Prime Minister Narendra] Modi ji’s guarantee that we will implement UCC across the country,” the BJP leader said, on the same day that second phase polling took place.\n\nTargeting Digvijaya\n\nMr. Shah also claimed that these “promises were added in the Congress manifesto on the advice of [senior Congress leader and Rajgarh candidate] Digvijaya Singh”.\n\n“Modi ji has given first priority to [Scheduled Castes] SCs, [Scheduled Tribes] STs, and [other backward classes] OBCs in the development of this country. But the Congress says that Muslims have the first right on the resources of this country. We will not let the intentions of the Congress be fulfilled,” he said, echoing Mr. Modi’s controversial remarks at a rally in Rajasthan earlier this week.\n\nThe BJP has fielded Union Minister Jyotiraditya Scindia from Guna to take on the Congress’ Rao Yadvendra Singh, who had switched over from the BJP ahead of the 2023 State Assembly election. Mr. Scindia, who lost the 2019 Lok Sabha election from Guna on a Congress ticket, joined the BJP in March 2020 as he led a rebellion of more than 20 MLAs to bring down the Kamal Nath-led Congress government in the State.\n\nAnother fierce contest is expected in Rajgarh, the home constituency of Mr. Singh, a former M.P. Chief Minister and senior Congress leader. He is challenging the sitting BJP MP Rodmal Nagar.\n\nBoth the constituencies will go to the polls in the third phase on May 7.\n\n‘Back door entry’\n\nAt both rallies, Mr. Shah launched scathing attacks against the Congress over issues ranging from the abrogation of Article 370 and the Ram Temple to Naxalism and terrorism.\n\n“The Congress wants to bring in Sharia law through the back door by talking about personal law. And Diggi Raja [a popular moniker for Mr. Singh] is two steps ahead and talks about bhagwa atankwad (saffron terrorism),” he said.\n\n“He [Mr. Singh] addresses Pakistani terrorist Hafiz Saeed as ‘sahib’. He embraces Zakir Naik. He opposes the death penalty to Afzal Guru who attacked the Parliament and also opposes the ban on the PFI [Popular Front of India],” Mr. Shah said.\n\nThe Home Minister also claimed that Madhya Pradesh had suffered from Naxalism during Mr. Singh’s tenure as CM between 1993 and 2003, adding that it was the BJP government which has now “eradicated” Naxalism from the State.\n\n‘Home turf’\n\nMr. Shah also took some potshots at Mr. Singh for returning to his home parliamentary constituency after 30 years. The Congress leader, who hails from the royal family of Rajgarh’s Raghogarh, had represented the constituency from 1984-89 and 1991-94.\n\n“What mandate are you asking for Diggi Raja? You ran away for so many years, went to Bhopal and now you have returned to Rajgarh. Ask the people here if they want you?” Mr. Shah said, adding that the word “bantadhar (ruined)” has been added to the Congress leader’s name.\n\n“He has come and gone many times. Now the time has come to give him a permanent farewell from politics. People of Rajgarh have to do it,” he said. “You have to ensure his defeat with a huge margin of votes. Defeat him with a lead [matching] his stature and make him sit at home,” he added.\n\nMr. Singh has already announced that this will be his last election as he will soon cross the age of 80 years.",
+            "articleLinkUrl": "https://www.thehindu.com/elections/lok-sabha/congress-wants-to-bring-sharia-law-through-the-back-door-says-amit-shah-targeting-digvijaya-singh-on-his-home-turf/article68111224.ece",
+            "articleAuthor": "The Hindu",
+            "articleAuthorImage": "",
+            "articleAuthorImageUrlLocal": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.jpg",
+            "creationDate": "04-07-2024, 15:26:59 pm",
+            "articlePublishDate": "27-04-2024, 04:35:00 am",
+            "articleTitleTranslated": null,
+            "articleSubTitleTranslated": null,
+            "articleBigContentTranslated": null,
+            "articleClassification": [
+                "Politics",
+                "Religion",
+                "Crime"
+            ],
+            "articleSentiment": 0,
+            "articleInsertedDate": 1714256903866,
+            "articleMedia": [],
+            "tweet": null,
+            "youtube": null,
+            "dailymotion": null,
+            "instagram": null,
+            "facebook": null,
+            "unique_ner": {
+                "ALL": []
+            },
+            "tag": "Civil Law",
+            "theme": "Internal Security",
+            "subTheme": "Law and Order",
+            "articleLanguage": "English",
+            "snippet": null,
+            "analyticsData": {
+                "summary": {
+                    "sentences": [
+                        "April 27, 2024 04:35 am | Updated 03:57 pm IST - BHOPAL Union Home Minister Amit Shah alleged on Friday that the Congress wanted to bring back Muslim personal law and triple talaq and pledged that the Bharatiya Janata Party (BJP) would implement the Uniform Civil Code (UCC) across the entire country.",
+                        "Addressing poll rallies in Madhya Pradesh''s Guna and Rajgarh Lok Sabha constituencies, Mr.",
+                        "Shah said, Read the Congress manifesto carefully.",
+                        "They have said that we will re-implement the Muslim personal law and triple talaq.",
+                        "You tell me, can this country be run by Sharia [law]?",
+                        "Rahul [Gandhi] baba, do whatever you want to do for appeasement.",
+                        "But as long as the BJP is there, we will not allow [Muslim] personal law to be implemented.",
+                        "This country will be run by UCC, this is the spirit of our Constitution.",
+                        "We have brought UCC in Uttarakhand and it is [Prime Minister Narendra] Modi ji''s guarantee that we will implement UCC across the country, the BJP leader said, on the same day that second phase polling took place.",
+                        "Targeting Digvijaya Mr.",
+                        "Shah also claimed that these promises were added in the Congress manifesto on the advice of [senior Congress leader and Rajgarh candidate] Digvijaya Singh.",
+                        "Modi ji has given first priority to [Scheduled Castes] SCs, [Scheduled Tribes] STs, and [other backward classes] OBCs in the development of this country.",
+                        "But the Congress says that Muslims have the first right on the resources of this country.",
+                        "We will not let the intentions of the Congress be fulfilled, he said, echoing Mr.",
+                        "Modi''s controversial remarks at a rally in Rajasthan earlier this week.",
+                        "The BJP has fielded Union Minister Jyotiraditya Scindia from Guna to take on the Congress'' Rao Yadvendra Singh, who had switched over from the BJP ahead of the 2023 State Assembly election. Mr. Scindia, who lost the 2019 Lok Sabha election from Guna on a Congress ticket, joined the BJP in March 2020 as he led a rebellion of more than 20 MLAs to bring down the Kamal Nath-led Congress government in the State.",
+                        "Another fierce contest is expected in Rajgarh, the home constituency of Mr.",
+                        "Singh, a former M. P. Chief Minister and senior Congress leader.",
+                        "He is challenging the sitting BJP MP Rodmal Nagar.",
+                        "Both the constituencies will go to the polls in the third phase on May 7. ‘Back door entry'' At both rallies, Mr.",
+                        "Shah launched scathing attacks against the Congress over issues ranging from the abrogation of Article 370 and the Ram Temple to Naxalism and terrorism.",
+                        "The Congress wants to bring in Sharia law through the back door by talking about personal law.",
+                        "And Diggi Raja [a popular moniker for Mr.",
+                        "Singh] is two steps ahead and talks about bhagwa atankwad (saffron terrorism), he said.",
+                        "He [Mr.",
+                        "Singh] addresses Pakistani terrorist Hafiz Saeed as ‘sahib''.",
+                        "He embraces Zakir Naik.",
+                        "He opposes the death penalty to Afzal Guru who attacked the Parliament and also opposes the ban on the PFI [Popular Front of India], Mr.",
+                        "Shah said.",
+                        "The Home Minister also claimed that Madhya Pradesh had suffered from Naxalism during Mr.",
+                        "Singh''s tenure as CM between 1993 and 2003, adding that it was the BJP government which has now eradicated Naxalism from the State.",
+                        "‘Home turf'' Mr.",
+                        "Shah also took some potshots at Mr.",
+                        "Singh for returning to his home parliamentary constituency after 30 years.",
+                        "The Congress leader, who hails from the royal family of Rajgarh''s Raghogarh, had represented the constituency from 1984-89 and 1991-94. What mandate are you asking for Diggi Raja?",
+                        "You ran away for so many years, went to Bhopal and now you have returned to Rajgarh.",
+                        "Ask the people here if they want you? Mr. Shah said, adding that the word bantadhar (ruined) has been added to the Congress leader''s name.",
+                        "He has come and gone many times.",
+                        "Now the time has come to give him a permanent farewell from politics.",
+                        "People of Rajgarh have to do it, he said.",
+                        "You have to ensure his defeat with a huge margin of votes.",
+                        "Defeat him with a lead [matching] his stature and make him sit at home, he added. Mr. Singh has already announced that this will be his last election as he will soon cross the age of 80 years."
+                    ],
+                    "scores": [
+                        0.13414469235970253,
+                        0.6666666905085246,
+                        0.3949910832466992,
+                        0.4373541363354387,
+                        0.1774148680355357,
+                        0.11873212465267072,
+                        0.2843579054563895,
+                        0.23964603625494857,
+                        0.253180528523311,
+                        0.27417234339933283,
+                        0.5321846030143728,
+                        0.09402072438220868,
+                        0.2715269067849236,
+                        0.10134479410346897,
+                        0.1836739770770879,
+                        0.4172909528017044,
+                        0.12047629436884803,
+                        0.24646245898065572,
+                        0.11058364823974412,
+                        0.254716157913208,
+                        0.2775095870701988,
+                        0.5179256685848894,
+                        0.14551826575021634,
+                        0.13442992988553218,
+                        0.15119414031505585,
+                        0.2853215719262759,
+                        0.045093000020789004,
+                        0.07022044829938603,
+                        0.4404637348982351,
+                        0.2896885686222164,
+                        0.08502849956182229,
+                        0.19504614174365997,
+                        0.23729744378056697,
+                        0.257092518839504,
+                        0.11959400055394775,
+                        0.08105416166368795,
+                        0.1459428632529887,
+                        0.01222203578799963,
+                        0.01313722226768732,
+                        0.1043308862153141,
+                        0.016079820692539215,
+                        0.12736332054760627
+                    ],
+                    "status": "success"
+                },
+                "relationExtraction": [
+                    {
+                        "name": "BHOPAL Singh",
+                        "relations": [
+                            {
+                                "relation": "religion",
+                                "entities": [
+                                    "Muslim"
+                                ],
+                                "status": "Black"
+                            },
+                            {
+                                "relation": "is_employee_of",
+                                "entities": [
+                                    "Bharatiya Janata Party"
+                                ],
+                                "status": "Black"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Singh",
+                        "relations": [
+                            {
+                                "relation": "stateorprovinces_of_residence",
+                                "entities": [
+                                    "Madhya Pradesh"
+                                ],
+                                "status": "Black"
+                            },
+                            {
+                                "relation": "is_employee_of",
+                                "entities": [
+                                    "Rajgarh Lok Sabha",
+                                    "Lok Sabha"
+                                ],
+                                "status": "Black"
+                            },
+                            {
+                                "relation": "alias",
+                                "entities": [
+                                    "Diggi Raja"
+                                ],
+                                "status": "Black"
+                            },
+                            {
+                                "relation": "title",
+                                "entities": [
+                                    "Chief Minister",
+                                    "Mr"
+                                ],
+                                "status": "Black"
+                            },
+                            {
+                                "relation": "lives_in",
+                                "entities": [
+                                    "Bhopal"
+                                ],
+                                "status": "Black"
+                            },
+                            {
+                                "relation": "age",
+                                "entities": [
+                                    "80 years"
+                                ],
+                                "status": "Black"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Rahul Gandhi",
+                        "relations": []
+                    },
+                    {
+                        "name": "Narendra Modi",
+                        "relations": []
+                    },
+                    {
+                        "name": "Digvijaya Singh",
+                        "relations": []
+                    },
+                    {
+                        "name": "Modi",
+                        "relations": [
+                            {
+                                "relation": "title",
+                                "entities": [
+                                    "Mr"
+                                ],
+                                "status": "Black"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Jyotiraditya Scindia",
+                        "relations": [
+                            {
+                                "relation": "is_employee_of",
+                                "entities": [
+                                    "Bharatiya Janata Party",
+                                    "Congress, Bharatiya Janata Party"
+                                ],
+                                "status": "Black"
+                            },
+                            {
+                                "relation": "title",
+                                "entities": [
+                                    "Union Minister"
+                                ],
+                                "status": "Black"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Rao Yadvendra Singh",
+                        "relations": [
+                            {
+                                "relation": "is_employee_of",
+                                "entities": [
+                                    "Congress''"
+                                ],
+                                "status": "Black"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Kamal Nath-led",
+                        "relations": []
+                    },
+                    {
+                        "name": "Rodmal Nagar",
+                        "relations": [
+                            {
+                                "relation": "is_employee_of",
+                                "entities": [
+                                    "Bharatiya Janata Party"
+                                ],
+                                "status": "Black"
+                            },
+                            {
+                                "relation": "title",
+                                "entities": [
+                                    "MP"
+                                ],
+                                "status": "Black"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Hafiz Saeed",
+                        "relations": [
+                            {
+                                "relation": "alma_mater",
+                                "entities": [
+                                    "King Saud University",
+                                    "University of Sargodha"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "born_in",
+                                "entities": [
+                                    "Sargodha"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "has_father",
+                                "entities": [
+                                    "Kamal-ud-Din Gujjar"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "has_siblings",
+                                "entities": [
+                                    "Hafiz Mastodon",
+                                    "Hafiz Hamid",
+                                    "Hafiz Hannan"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "has_son",
+                                "entities": [
+                                    "Hafiz Talha Saeed"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "has_wife",
+                                "entities": [
+                                    "Maimoona Saeed"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "is_chief_of",
+                                "entities": [
+                                    "Jamaat-ud-Dawah"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "is_founder_of",
+                                "entities": [
+                                    "Lashkar-e-Taiba"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "responsible_for",
+                                "entities": [
+                                    "2008 Mumbai Attack",
+                                    "2001 Indian Parliament attack"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "reward_by",
+                                "entities": [
+                                    "United States"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "alias",
+                                "entities": [
+                                    "Hafiz Mohammad Sayed",
+                                    "Hafiz Muhammad",
+                                    "Hafiz Mohammad Sayid",
+                                    "Hafiz Mohammad Sahib",
+                                    "Hafiz Mohammad Sayeed",
+                                    "Mohammad Sayed",
+                                    "Hafiz Sahib",
+                                    "Muhammad Saeed",
+                                    "Hafez Mohammad Saeed",
+                                    "Tata Ji"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "colour_of_eyes",
+                                "entities": [
+                                    "Black"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "colour_of_hair",
+                                "entities": [
+                                    "Black"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "criminal_charges",
+                                "entities": [
+                                    "Terror Funding"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "date_of_arrest",
+                                "entities": [
+                                    "July 2019"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "date_of_birth",
+                                "entities": [
+                                    "1950-06-05T00:00:00"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "known_languages",
+                                "entities": [
+                                    "Punjabi",
+                                    "Arabic",
+                                    "Urdu"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "nationality",
+                                "entities": [
+                                    "Pakistani"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "origin",
+                                "entities": [
+                                    "Pakistani"
+                                ],
+                                "status": "Black"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Zakir Naik",
+                        "relations": [
+                            {
+                                "relation": "born_in",
+                                "entities": [
+                                    "Mumbai"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "has_daughter",
+                                "entities": [
+                                    "Rushda Naik",
+                                    "Zikra Naik"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "has_father",
+                                "entities": [
+                                    "Dr Abdul Karim Naik"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "has_lawyer",
+                                "entities": [
+                                    "Akhberdin Abdul Kader"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "has_mother",
+                                "entities": [
+                                    "Roshan Naik"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "has_son",
+                                "entities": [
+                                    "Fariq Naik"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "has_wife",
+                                "entities": [
+                                    "Farhat Naik"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "influenced",
+                                "entities": [
+                                    "Sri Lanka Easter Blast",
+                                    "Zahran Hasim",
+                                    "2016 Dhaka Cafe Blast"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "inspired_by",
+                                "entities": [
+                                    "Ahmed Husein Deedat"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "is_founder_of",
+                                "entities": [
+                                    "Islamic Research Foundation",
+                                    "Peace TV Network"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "lives_in",
+                                "entities": [
+                                    "Malaysia",
+                                    "Saudi Arabia"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "supporter_of",
+                                "entities": [
+                                    "Al-Qaeda",
+                                    "Islamic State of Iraq and the Levant"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "wanted_by",
+                                "entities": [
+                                    "National Investigation Agency"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "alias",
+                                "entities": [
+                                    "Zakir Abdul Karim Naik"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "awards",
+                                "entities": [
+                                    "Sharjah Award for Volutary Work",
+                                    "Tokoh Ma'al Hijrah Award",
+                                    "Dubai International Holy Quran Award – Islamic Personality of the Year",
+                                    "Service to Islam – King Faisal Prize"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "criminal_charges",
+                                "entities": [
+                                    "inciting extremism through hate speeches",
+                                    "money laundering charges"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "date_of_birth",
+                                "entities": [
+                                    "18 October 1965"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "educational_qualification",
+                                "entities": [
+                                    "MBBS"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "gender",
+                                "entities": [
+                                    "Male"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "nationality",
+                                "entities": [
+                                    "Indian"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "occupation",
+                                "entities": [
+                                    "Physician",
+                                    "President of Islamic Research Foundation",
+                                    "Public Speaker"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "social_media_accounts",
+                                "entities": [
+                                    "Twitter",
+                                    "Instagram",
+                                    "YouTube",
+                                    "Facebook",
+                                    "Pinterest"
+                                ],
+                                "status": "Blue"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Afzal Guru",
+                        "relations": [
+                            {
+                                "relation": "born_in",
+                                "entities": [
+                                    "Sopore"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "has_son",
+                                "entities": [
+                                    "Galib Guru"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "age_at_the_time_of_death",
+                                "entities": [
+                                    "43"
+                                ],
+                                "status": "Blue"
+                            },
+                            {
+                                "relation": "date_of_death",
+                                "entities": [
+                                    "2013-02-09T00:00:00"
+                                ],
+                                "status": "Blue"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shah",
+                        "relations": [
+                            {
+                                "relation": "title",
+                                "entities": [
+                                    "Mr"
+                                ],
+                                "status": "Black"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Diggi Raja",
+                        "relations": [
+                            {
+                                "relation": "alias",
+                                "entities": [
+                                    "Singh]'s"
+                                ],
+                                "status": "Black"
+                            }
+                        ]
+                    }
+                ],
+                "coref": "April 27, 2024 04:35 am | Updated 03:57 pm IST - BHOPAL Singh alleged on Friday that the Congress wanted to bring back the Muslim personal law and triple talaq and pledged that the Bharatiya Janata Party (BJP) would implement the Uniform Civil Code (UCC) across the entire country. Addressing poll rallies in Madhya Pradesh''s Guna and Rajgarh Lok Sabha constituencies, Singh said, Read the the Congress manifesto carefully. Congress have said that the Congress will re-implement the Muslim personal law and triple talaq. You tell Mr. Singh, a former M.P. Chief Minister and senior Congress leader, can the entire country be run by Sharia [law]? Rahul [Gandhi] baba, do whatever you want to do for appeasement. But as long as the Bharatiya Janata Party (BJP) is there, we will not allow the Muslim personal law to be implemented. the entire country will be run by the Uniform Civil Code (UCC), this is the spirit of our Constitution. We have brought the Uniform Civil Code (UCC) in Uttarakhand and it is [Prime Minister Narendra] Modi ji''s guarantee that we will implement the Uniform Civil Code (UCC) across the entire country, the the Bharatiya Janata Party (BJP) leader said, on the same day that second phase polling took place. Targeting Digvijaya Singh also claimed that these promises were added in the Congress manifesto on the advice of [senior the Congress leader and Rajgarh Lok Sabha candidate] Digvijaya Singh. Modi has given first priority to [Scheduled Castes] SCs, [Scheduled Tribes] STs, and [other backward classes] OBCs in the development of the entire country. But the Congress says that Muslims have the first right on the resources of the entire country. We will not let the intentions of the Congress be fulfilled, Singh said, echoing Mr. Modi''s controversial remarks at a rally in Rajasthan earlier this week. the Bharatiya Janata Party (BJP) has fielded Union Minister Jyotiraditya Scindia from Guna to take on the Congress'' Rao Yadvendra Singh, who had switched over from the Bharatiya Janata Party (BJP) ahead of the 2023 State Assembly election. Jyotiraditya Scindia, who lost the 2019 Lok Sabha election from Guna on a the Congress ticket, joined the Bharatiya Janata Party (BJP) in March 2020 as Jyotiraditya Scindia led a rebellion of more than 20 MLAs to bring down the Kamal Nath-led Congress government in the entire country. Another fierce contest is expected in Rajgarh, the home constituency of Mr. Singh, a former M.P. Chief Minister and senior the Congress leader. Singh is challenging the sitting the Bharatiya Janata Party (BJP) MP Rodmal Nagar. Madhya Pradesh Guna and Rajgarh Lok Sabha constituencies will go to the polls in the third phase on May 7. ‘Back door entry'' At poll rallies in Madhya Pradesh Guna and Rajgarh Lok Sabha constituencies, Singh launched scathing attacks against the Congress over issues ranging from the abrogation of Article 370 and the Ram Temple to Naxalism and terrorism. the Congress wants to bring in Sharia law through the back door by talking about personal law. And Diggi Raja [a popular moniker for Singh] is two steps ahead and talks about bhagwa atankwad (saffron terrorism), Singh said. He [Mr. Singh] addresses Pakistani terrorist Hafiz Saeed as ‘sahib''. Singh] embraces Zakir Naik. Singh] opposes the death penalty to Afzal Guru who attacked the Parliament and also opposes the ban on the PFI [Popular Front of India], Singh said. Mr. Singh, a former M.P. Chief Minister and senior Congress leader also claimed that Madhya Pradesh had suffered from Naxalism during Mr. Singh, a former M.P. Chief Minister and senior Congress leader's tenure as CM between 1993 and 2003, adding that it was the the Bharatiya Janata Party (BJP) government which has now eradicated Naxalism from Madhya Pradesh. ‘Home turf'' Mr. Shah also took some potshots at Singh for returning to Singh's home parliamentary constituency after 30 years. Mr. Singh, a former M.P. Chief Minister and senior Congress leader, who hails from the royal family of Rajgarh Lok Sabha's Raghogarh, had represented Rajgarh, the home constituency of Mr. Singh, a former M.P. Chief Minister and senior Congress leader from 1984-89 and 1991-94. What mandate are Mr. Singh, a former M.P. Chief Minister and senior Congress leader asking for Singh]? Mr. Singh, a former M.P. Chief Minister and senior Congress leader ran away for so many years, went to Bhopal and now Mr. Singh, a former M.P. Chief Minister and senior Congress leader have returned to Rajgarh Lok Sabha. Ask the people here if they want Mr. Singh, a former M.P. Chief Minister and senior Congress leader? Singh said, adding that the word bantadhar (ruined) has been added to Diggi Raja [a popular moniker for Mr. Singh]'s name. Singh] has come and gone many times. Now the time has come to give Singh] a permanent farewell from politics. People of Rajgarh Lok Sabha have to do it, Singh] said. You have to ensure Singh]'s defeat with a huge margin of votes. Defeat Singh] with a lead [matching] Singh]'s stature and make Singh] sit at home, Singh] added. Singh has already announced that this will be Singh's last election as Singh will soon cross the age of 80 years."
+            }
+        },
+        {
+            "link": "https://thekashmirhorizon.com/2024/05/17/nia-attaches-properties-of-jem-militant-in-kashmir/",
+            "count": null,
+            "articleId": "884a1f8ee9d7b8e849138ea58f50eb5c",
+            "articleSource": "article",
+            "articleNewsSource": "The Kashmir Horizon",
+            "articleTitle": "NIA attaches properties of JeM militant in Kashmir",
+            "articleSubTitle": "Jammu: The National Investigation Agency (NIA) has attached as many as seven immovable properties of a top terrorist belonging to the banned Pakistan-based Jaish-e-Mohammed (JeM) militant organisation.\n\nIn a statement, issued here on Thursday a spokesperson said that Sartaj Ahmed Mantoo’s properties",
+            "articleBigContent": "Jammu: The National Investigation Agency (NIA) has attached as many as seven immovable properties of a top terrorist belonging to the banned Pakistan-based Jaish-e-Mohammed (JeM) militant organisation.\n\nIn a statement, issued here on Thursday a spokesperson said that Sartaj Ahmed Mantoo’s properties, including land measuring 19 Marlas & 84 Sqft at Kisarigam in Pulwama district, were attached on Wednesday under Section 33 (1) of UA (P) Act, 1967, on the orders of NIA Special Court, Jammu.\n\nThe statement reads that Sartaj was arrested on 31st January 2020, and several arms, ammunitions and explosives were recovered from his possession.\n\n“He was chargesheeted on 27th July 2020, and is currently facing trial under relevant sections of Arms Act, IPC, Explosive Substances Act, UA (P) Act and Indian Wireless Telegraphy Act, 1933,” it reads.\n\nIt added that along with his five co-accused members of JeM, he was involved in transporting freshly infiltrated militants to the Kashmir valley. “Three militants were killed and arms, ammunition and explosives were also seized in the case (RC-02/2020/NIA/JMU), related to a conspiracy to unleash militant attacks on security forces / apparatus as part of an anti-India agenda.”\n\nIt reads that since its formation in 2000 by Maulana Masood Azhar, JeM has carried out several militant attacks in India including J&K. “JeM was enlisted as a “Designated Foreign Terrorist Organisation” by the United Nations Security council Resolution (UNSC) 1267 and the group’s leader Maulana Masood Azhar was designated as “Global Terrorist” in 2019 by the UNSC.”\n\nThe statement added that the NIA, just a week ago, attached six immovable properties of another top militant of JeM in Kashmir as part of its crackdown on terror operatives in J&K\n\nAbout Author",
+            "articleLinkUrl": "https://thekashmirhorizon.com/2024/05/17/nia-attaches-properties-of-jem-militant-in-kashmir/",
+            "articleAuthor": "The Kashmir Horizon",
+            "articleAuthorImage": "",
+            "articleAuthorImageUrlLocal": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.jpg",
+            "creationDate": "04-07-2024, 15:26:59 pm",
+            "articlePublishDate": "16-05-2024, 20:12:05 pm",
+            "articleTitleTranslated": null,
+            "articleSubTitleTranslated": null,
+            "articleBigContentTranslated": null,
+            "articleClassification": [
+                "Terrorism",
+                "Military",
+                "Crime"
+            ],
+            "articleSentiment": 0,
+            "articleInsertedDate": 1715892373372,
+            "articleMedia": [],
+            "tweet": null,
+            "youtube": null,
+            "dailymotion": null,
+            "instagram": null,
+            "facebook": null,
+            "unique_ner": {
+                "ALL": []
+            },
+            "tag": "National Security",
+            "theme": "Terrorism",
+            "subTheme": "Cyber Terrorism",
+            "articleLanguage": "English",
+            "snippet": null,
+            "analyticsData": {
+                "summary": {
+                    "sentences": [
+                        "Jammu: The National Investigation Agency (NIA) has attached as many as seven immovable properties of a top terrorist belonging to the banned Pakistan-based Jaish-e-Mohammed (JeM) militant organisation.",
+                        "In a statement, issued here on Thursday a spokesperson said that Sartaj Ahmed Mantoo''s properties, including land measuring 19 Marlas and 84 Sqft at Kisarigam in Pulwama district, were attached on Wednesday under Section 33 (1) of UA (P) Act, 1967, on the orders of NIA Special Court, Jammu.",
+                        "The statement reads that Sartaj was arrested on 31st January 2020, and several arms, ammunitions and explosives were recovered from his possession.",
+                        "He was chargesheeted on 27th July 2020, and is currently facing trial under relevant sections of Arms Act, IPC, Explosive Substances Act, UA (P) Act and Indian Wireless Telegraphy Act, 1933, it reads.",
+                        "It added that along with his five co-accused members of JeM, he was involved in transporting freshly infiltrated militants to the Kashmir valley.",
+                        "Three militants were killed and arms, ammunition and explosives were also seized in the case (RC-02/2020/NIA/JMU), related to a conspiracy to unleash militant attacks on security forces / apparatus as part of an anti-India agenda.",
+                        "It reads that since its formation in 2000 by Maulana Masood Azhar, JeM has carried out several militant attacks in India including J and K.",
+                        "JeM was enlisted as a Designated Foreign Terrorist Organisation by the United Nations Security council Resolution (UNSC) 1267 and the group''s leader Maulana Masood Azhar was designated as Global Terrorist in 2019 by the UNSC.",
+                        "The statement added that the NIA, just a week ago, attached six immovable properties of another top militant of JeM in Kashmir as part of its crackdown on terror operatives in J and K About Author"
+                    ],
+                    "scores": [
+                        0.8444444682863024,
+                        0.5500729706552294,
+                        0.17102934718132018,
+                        0.1594531923532486,
+                        0.30413017809391024,
+                        0.0,
+                        0.4021717874705792,
+                        0.26805396437644957,
+                        0.4026125475764275
+                    ],
+                    "status": "success"
+                },
+                "relationExtraction": [
+                    {
+                        "name": "Maulana Masood Azhar",
+                        "relations": [
+                            {
+                                "relation": "is_employee_of",
+                                "entities": [
+                                    "Jaish-e-Mohammed"
+                                ],
+                                "status": "Black"
+                            },
+                            {
+                                "relation": "founded",
+                                "entities": [
+                                    "2000"
+                                ],
+                                "status": "Black"
+                            }
+                        ]
+                    }
+                ],
+                "coref": "Jammu: The National Investigation Agency (NIA) has attached as many as seven immovable properties of a top terrorist belonging to the banned Pakistan-based Jaish-e-Mohammed (JeM) militant organisation. In a statement, issued here on Thursday a spokesperson said that a top terrorist belonging to the banned Pakistan-based Jaish-e-Mohammed (JeM) militant organisation's properties, including land measuring 19 Marlas and 84 Sqft at Kisarigam in Pulwama district, were attached on Wednesday under Section 33 (1) of UA (P) Act, 1967, on the orders of The National Investigation Agency (NIA) Special Court, Jammu. a statement, issued here on Thursday a spokesperson reads that a top terrorist belonging to the banned Pakistan-based Jaish-e-Mohammed (JeM) militant organisation was arrested on 31st January 2020, and several arms, ammunitions and explosives were recovered from a top terrorist belonging to the banned Pakistan-based Jaish-e-Mohammed (JeM) militant organisation possession. a top terrorist belonging to the banned Pakistan-based Jaish-e-Mohammed (JeM) militant organisation was chargesheeted on 27th July 2020, and is currently facing trial under relevant sections of Arms Act, IPC, Explosive Substances Act, UA (P) Act, 1967 and Indian Wireless Telegraphy Act, 1933, a statement, issued here on Thursday a spokesperson reads. a statement, issued here on Thursday a spokesperson added that along with a top terrorist belonging to the banned Pakistan-based Jaish-e-Mohammed (JeM) militant organisation five co-accused members of the banned Pakistan-based Jaish-e-Mohammed (JeM) militant organisation, a top terrorist belonging to the banned Pakistan-based Jaish-e-Mohammed (JeM) militant organisation was involved in transporting freshly infiltrated militants to the Kashmir valley. Three militants were killed and arms, ammunition and explosives were also seized in the case (RC-02/2020/The National Investigation Agency (NIA)/JMU), related to a conspiracy to unleash militant attacks on security forces / apparatus as part of an anti-India agenda. a statement, issued here on Thursday a spokesperson reads that since the banned Pakistan-based Jaish-e-Mohammed (JeM) militant organisation's formation in 2000 by Maulana Masood Azhar, the banned Pakistan-based Jaish-e-Mohammed (JeM) militant organisation has carried out several militant attacks in India including J and K. the banned Pakistan-based Jaish-e-Mohammed (JeM) militant organisation was enlisted as a Designated Foreign Terrorist Organisation by the the UNSC Security council Resolution (UNSC) 1267 and the banned Pakistan-based Jaish-e-Mohammed (JeM) militant organisation's leader Maulana Masood Azhar was designated as Global Terrorist in 2019 by the UNSC. a statement, issued here on Thursday a spokesperson added that The National Investigation Agency (NIA), just a week ago, attached six immovable properties of another top militant of the banned Pakistan-based Jaish-e-Mohammed (JeM) militant organisation in Kashmir as part of The National Investigation Agency (NIA)'s crackdown on terror operatives in J and K About Author"
+            }
+        },
+        {
+            "link": "https://www.deccanchronicle.com/nation/nia-attaches-multiple-properties-of-jem-terrorist-in-kashmir-894227",
+            "count": null,
+            "articleId": "735381acd73a112267b0efd7dea19f7a",
+            "articleSource": "article",
+            "articleNewsSource": "Deccan Chronicle",
+            "articleTitle": "NIA Attaches Multiple Properties of JeM terrorist in Kashmir",
+            "articleSubTitle": "Jammu: Going full steam with its efforts to destroy the terror network in Jammu and Kashmir (J&K), the National Investigation Agency (NIA) has attached as many as seven immovable properties of a top terrorist belonging to the banned Pakistan-based Jaish-e-Mohammed (JeM) terrorist organisation.\n\n\n\nTe",
+            "articleBigContent": "Jammu: Going full steam with its efforts to destroy the terror network in Jammu and Kashmir (J&K), the National Investigation Agency (NIA) has attached as many as seven immovable properties of a top terrorist belonging to the banned Pakistan-based Jaish-e-Mohammed (JeM) terrorist organisation.\n\n\n\nTerrorist Sartaj Ahmed Mantoo’s properties, including land measuring 19 Marlas and 84 square feet at Kisarigam in Pulwama district of Kashmir, were attached on Wednesday under Section 33 (1) of UA (P) Act, 1967, on the orders of NIA Special Court, Jammu.\n\nSartaj was arrested on January 31, 2020, and several arms, ammunitions and explosives were recovered from his possession. He was chargesheeted on July 27, 2020, and is currently facing trial under relevant sections of Arms Act, IPC, Explosive Substances Act, UA (P) Act and Indian Wireless Telegraphy Act, 1933.\n\nAlong with his five co-accused members of JeM, he was involved in transporting freshly infiltrated terrorists to the Kashmir valley. Three terrorists were killed and arms, ammunition and explosives were also seized in the case (RC-02/2020/NIA/JMU), related to a conspiracy to unleash terror attacks on security forces / apparatus as part of an anti-India agenda.\n\nSince its formation in 2000 by Maulana Masood Azhar, JeM has carried out several terrorist attacks in India including J&K. JeM was enlisted as a “Designated Foreign Terrorist Organisation” by the United Nations Security council Resolution (UNSC) 1267 and the group’s leader Maulana Masood Azhar was designated as “Global Terrorist” in 2019 by the UNSC.\n\nNIA had, just a week ago, attached six immovable properties of another top militant of JeM in Kashmir as part of its crackdown on terror operatives in J&K.",
+            "articleLinkUrl": "https://www.deccanchronicle.com/nation/nia-attaches-multiple-properties-of-jem-terrorist-in-kashmir-894227",
+            "articleAuthor": "Deccan Chronicle",
+            "articleAuthorImage": "",
+            "articleAuthorImageUrlLocal": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.jpg",
+            "creationDate": "04-07-2024, 15:26:59 pm",
+            "articlePublishDate": "16-05-2024, 10:51:37 am",
+            "articleTitleTranslated": null,
+            "articleSubTitleTranslated": null,
+            "articleBigContentTranslated": null,
+            "articleClassification": [
+                "Terrorism",
+                "Crime",
+                "Military"
+            ],
+            "articleSentiment": 0,
+            "articleInsertedDate": 1715865464579,
+            "articleMedia": [],
+            "tweet": null,
+            "youtube": null,
+            "dailymotion": null,
+            "instagram": null,
+            "facebook": null,
+            "unique_ner": {
+                "ALL": [
+                    {
+                        "key": "GPE",
+                        "value": "Kashmir"
+                    },
+                    {
+                        "key": "GPE",
+                        "value": "Jammu"
+                    },
+                    {
+                        "key": "GPE",
+                        "value": "Jammu and Kashmir"
+                    },
+                    {
+                        "key": "GPE",
+                        "value": "Pakistan-based"
+                    },
+                    {
+                        "key": "GPE",
+                        "value": "Te Jammu"
+                    },
+                    {
+                        "key": "GPE",
+                        "value": "Kisarigam"
+                    },
+                    {
+                        "key": "GPE",
+                        "value": "Pulwama"
+                    },
+                    {
+                        "key": "GPE",
+                        "value": "India"
+                    },
+                    {
+                        "key": "GPE",
+                        "value": "J and K"
+                    },
+                    {
+                        "key": "PERSON",
+                        "value": "Sartaj Ahmed Mantoo's"
+                    },
+                    {
+                        "key": "PERSON",
+                        "value": "Sartaj"
+                    },
+                    {
+                        "key": "PERSON",
+                        "value": "Maulana Masood Azhar"
+                    },
+                    {
+                        "key": "ORG",
+                        "value": "NIA"
+                    },
+                    {
+                        "key": "ORG",
+                        "value": "JeM"
+                    },
+                    {
+                        "key": "ORG",
+                        "value": "National Investigation Agency"
+                    },
+                    {
+                        "key": "ORG",
+                        "value": "Jaish-e-Mohammed"
+                    },
+                    {
+                        "key": "ORG",
+                        "value": "NIA Special Court"
+                    },
+                    {
+                        "key": "ORG",
+                        "value": "UNSC"
+                    },
+                    {
+                        "key": "LOC",
+                        "value": "Kashmir valley"
+                    }
+                ],
+                "ORG": [
+                    "NIA",
+                    "JeM",
+                    "National Investigation Agency",
+                    "Jaish-e-Mohammed",
+                    "NIA Special Court",
+                    "UNSC"
+                ],
+                "GPE": [
+                    "Kashmir",
+                    "Jammu",
+                    "Jammu and Kashmir",
+                    "Pakistan-based",
+                    "Te Jammu",
+                    "Kisarigam",
+                    "Pulwama",
+                    "India",
+                    "J and K"
+                ],
+                "CARDINAL": [
+                    "seven",
+                    "five",
+                    "Three",
+                    "six"
+                ],
+                "PERSON": [
+                    "Sartaj Ahmed Mantoo's",
+                    "Sartaj",
+                    "Maulana Masood Azhar"
+                ],
+                "QUANTITY": [
+                    "19 Marlas",
+                    "84 square feet"
+                ],
+                "DATE": [
+                    "Wednesday",
+                    "1967",
+                    "January 31 2020",
+                    "July 27 2020",
+                    "1933",
+                    "2000",
+                    "2019",
+                    "just",
+                    "a week ago"
+                ],
+                "LAW": [
+                    "Section 33 (1) of UA (P) Act",
+                    "sections of Arms Act",
+                    "IPC",
+                    "Explosive Substances Act",
+                    "UA (P) Act",
+                    "Indian Wireless Telegraphy Act",
+                    "United Nations Security council Resolution"
+                ],
+                "LOC": [
+                    "Kashmir valley"
+                ]
+            },
+            "tag": "National Security",
+            "theme": "Terrorism",
+            "subTheme": "Cyber Terrorism",
+            "articleLanguage": "English",
+            "snippet": null,
+            "analyticsData": {
+                "summary": {
+                    "sentences": [
+                        "Jammu: Going full steam with its efforts to destroy the terror network in Jammu and Kashmir (J and K), the National Investigation Agency (NIA) has attached as many as seven immovable properties of a top terrorist belonging to the banned Pakistan-based Jaish-e-Mohammed (JeM) terrorist organisation.",
+                        "Terrorist Sartaj Ahmed Mantoo''s properties, including land measuring 19 Marlas and 84 square feet at Kisarigam in Pulwama district of Kashmir, were attached on Wednesday under Section 33 (1) of UA (P) Act, 1967, on the orders of NIA Special Court, Jammu.",
+                        "Sartaj was arrested on January 31, 2020, and several arms, ammunitions and explosives were recovered from his possession.",
+                        "He was chargesheeted on July 27, 2020, and is currently facing trial under relevant sections of Arms Act, IPC, Explosive Substances Act, UA (P) Act and Indian Wireless Telegraphy Act, 1933. Along with his five co-accused members of JeM, he was involved in transporting freshly infiltrated terrorists to the Kashmir valley.",
+                        "Three terrorists were killed and arms, ammunition and explosives were also seized in the case (RC-02/2020/NIA/JMU), related to a conspiracy to unleash terror attacks on security forces / apparatus as part of an anti-India agenda.",
+                        "Since its formation in 2000 by Maulana Masood Azhar, JeM has carried out several terrorist attacks in India including J and K.",
+                        "JeM was enlisted as a Designated Foreign Terrorist Organisation by the United Nations Security council Resolution (UNSC) 1267 and the group''s leader Maulana Masood Azhar was designated as Global Terrorist in 2019 by the UNSC.",
+                        "NIA had, just a week ago, attached six immovable properties of another top militant of JeM in Kashmir as part of its crackdown on terror operatives in J and K."
+                    ],
+                    "scores": [
+                        0.8594130730234422,
+                        0.9444444682863024,
+                        0.4443868747416963,
+                        0.2868915117167412,
+                        0.03838376700878143,
+                        0.45791324361207636,
+                        0.21489361702127663,
+                        0.48129079671616254
+                    ],
+                    "status": "success"
+                },
+                "relationExtraction": [
+                    {
+                        "name": "Maulana",
+                        "relations": [
+                            {
+                                "relation": "is_employee_of",
+                                "entities": [
+                                    "Jaish-e-Mohammed"
+                                ],
+                                "status": "Black"
+                            },
+                            {
+                                "relation": "title",
+                                "entities": [
+                                    "Maulana Masood Azhar"
+                                ],
+                                "status": "Black"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Maulana Masood Azhar",
+                        "relations": [
+                            {
+                                "relation": "is_employee_of",
+                                "entities": [
+                                    "Jaish-e-Mohammed"
+                                ],
+                                "status": "Black"
+                            },
+                            {
+                                "relation": "founded",
+                                "entities": [
+                                    "2000"
+                                ],
+                                "status": "Black"
+                            },
+                            {
+                                "relation": "title",
+                                "entities": [
+                                    "Maulana"
+                                ],
+                                "status": "Black"
+                            }
+                        ]
+                    }
+                ],
+                "coref": "Jammu: Going full steam with its efforts to destroy the terror network in Jammu and Kashmir (J and K), the National Investigation Agency (NIA) has attached as many as seven immovable properties of a top terrorist belonging to the banned Pakistan-based Jaish-e-Mohammed (JeM) terrorist organisation. a top terrorist belonging to the banned Pakistan-based Jaish-e-Mohammed (JeM) terrorist organisation's properties, including land measuring 19 Marlas and 84 square feet at Kisarigam in Pulwama district of Kashmir, were attached on Wednesday under Section 33 (1) of UA (P) Act, 1967, on the orders of NIA Special Court, Jammu. a top terrorist belonging to the banned Pakistan-based Jaish-e-Mohammed (JeM) terrorist organisation was arrested on January 31, 2020, and several arms, ammunitions and explosives were recovered from a top terrorist belonging to the banned Pakistan-based Jaish-e-Mohammed (JeM) terrorist organisation possession. a top terrorist belonging to the banned Pakistan-based Jaish-e-Mohammed (JeM) terrorist organisation was chargesheeted on July 27, 2020, and is currently facing trial under relevant sections of Arms Act, IPC, Explosive Substances Act, UA (P) Act, 1967 and Indian Wireless Telegraphy Act, 1933. Along with a top terrorist belonging to the banned Pakistan-based Jaish-e-Mohammed (JeM) terrorist organisation five co-accused members of the banned Pakistan-based Jaish-e-Mohammed (JeM) terrorist organisation, a top terrorist belonging to the banned Pakistan-based Jaish-e-Mohammed (JeM) terrorist organisation was involved in transporting freshly infiltrated terrorists to the Kashmir valley. Three terrorists were killed and arms, ammunition and explosives were also seized in the case (RC-02/2020/the National Investigation Agency (NIA)/JMU), related to a conspiracy to unleash terror attacks on security forces / apparatus as part of an anti-India agenda. Since the banned Pakistan-based Jaish-e-Mohammed (JeM) terrorist organisation's formation in 2000 by Maulana Masood Azhar, the banned Pakistan-based Jaish-e-Mohammed (JeM) terrorist organisation has carried out several terrorist attacks in India including J and K. the banned Pakistan-based Jaish-e-Mohammed (JeM) terrorist organisation was enlisted as a Designated Foreign Terrorist Organisation by the the UNSC Security council Resolution (UNSC) 1267 and the banned Pakistan-based Jaish-e-Mohammed (JeM) terrorist organisation's leader Maulana Masood Azhar was designated as Global Terrorist in 2019 by the UNSC. the National Investigation Agency (NIA) had, just a week ago, attached six immovable properties of another top militant of the banned Pakistan-based Jaish-e-Mohammed (JeM) terrorist organisation in Kashmir as part of the National Investigation Agency (NIA)'s crackdown on terror operatives in J and K."
+            }
+        }
+    ],
+    "provePointer": "1720085965314737"
+}

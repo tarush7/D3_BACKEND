@@ -1,0 +1,3 @@
+### Get Folder Data
+GET http://localhost:6969/get_folder_data
+Accept: application/json
